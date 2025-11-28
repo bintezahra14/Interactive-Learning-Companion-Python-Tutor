@@ -22,17 +22,17 @@ The agent:
 
 ## 2. Repository Structure
 
-```text
 interactive-learning-companion/
-├── README.md                  # Setup & usage instructions
-├── requirements.txt           # Python dependencies
-├── config_example.json        # Example config (no secrets)
+├── README.md
+├── requirements.txt
+├── config_example.json
 ├── src/
-│   ├── memory.py              # MemorySystem & LearnerProfile classes
-│   ├── tools.py               # Tool implementations (run_python, web_search_stub)
-│   ├── agent.py               # LearningAgent (ReAct + RL-style logic)
-│   └── main.py                # CLI entry point / demo loop
+│   ├── memory.py
+│   ├── tools.py
+│   ├── agent.py
+│   └── main.py
 ├── notebooks/
-│   └── FN_Notebook_BinteZahra_Waseem_Team1_ITAI2376.ipynb  # Colab notebook with experiments
+│   └── FN_Notebook_BinteZahra_Waseem_Team1_ITAI2376.ipynb
 └── docs/
-    └── architecture_diagram.png  # (optional) System architecture diagram
+
+
