@@ -35,4 +35,8 @@ interactive-learning-companion/
 │   └── FN_Notebook_BinteZahra_Waseem_Team1_ITAI2376.ipynb
 └── docs/
 
+## 🎥 Demo Video
+Watch the full demo video of our Interactive Learning Companion:  
+[▶️ Click here to view](https://drive.google.com/file/d/1tnhe0PDJyCmlVKvTXbDrq8yYJ8r7m8xU/view?usp=sharing)
+
 
